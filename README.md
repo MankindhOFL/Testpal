@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
@@ -64,3 +65,7 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+=======
+# Testpal
+A web3 app to track users interaction across testnets projects and chains.
+>>>>>>> 4edaef3c9b49f9d065f849c80a7cfb7e4aff6d2b
